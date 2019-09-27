@@ -16,6 +16,13 @@ How to:
 - Run the scripts
 <br />`$ chmod u+x scrap.py`
 <br />`$ ./scrap.py`
-
+- Get outpit by listing the contents of the scripts working directory<br/>
+```
+$ ls -l
+$ README.md
+$ scrap.py
+$ Sample_Output_Folder
+$ output.csv
+```
 You can customize the script to get more custom information. 
 
