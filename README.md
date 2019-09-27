@@ -16,7 +16,7 @@ How to:
 - Run the scripts
 <br />`$ chmod u+x scrap.py`
 <br />`$ ./scrap.py`
-- Get output by listing the contents of the script's working directory<br/>
+- Get output as "output.csv" by listing the contents of the script's working directory<br/>
 
 `$ ls -l`
 ```
